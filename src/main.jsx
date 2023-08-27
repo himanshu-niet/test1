@@ -4,7 +4,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import Index from './pages';
+import Index from './pages/Index';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Air from './pages/Products/Air';
